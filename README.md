@@ -2,7 +2,7 @@
 - 👀 I’m an Old Time Games
 - 🌱 I have just taken over a TF2 sevrer
 - 💞️ I’m looking to learn what it take to run a server
-- 📫 How to reach me hellraier@teamarc.co.uk
+- 📫 How to reach me hellraiser@teamarc.co.uk
 - 😄 Just an old Fart been around gameing a long time
 - ⚡ Fun fact: still have my Commodore 64
 <!---
